@@ -1,9 +1,4 @@
 # cStyleGAN
-<<<<<<< HEAD
-The source code for cStyleGAN.
-
-
-=======
 The PyTorch implementation of cStyleGAN. The conditional StyleGAN for face progression/regression tasks.
 
 The baseline model is StyleGAN:
@@ -16,4 +11,3 @@ The code is based on the GitHub repository: https://github.com/rosinality/style-
 # Usage
 
 Please check the file ```train_UTK_withMul.ipynb```.
->>>>>>> b399b178f45a85124f38b1dfcf7c072488b6c3fd
